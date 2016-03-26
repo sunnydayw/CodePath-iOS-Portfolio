@@ -1,4 +1,4 @@
-# CodePath-iOS-Portfolio
+# CodePath iOS Portfolio
 Time spent: **60** hours spent in total Coding Swift Since December 20, 2015 - March 26, 2016
 For Video Demo, Please Check Video Demo Profile
 
