@@ -39,32 +39,7 @@ Time spent: **60** hours spent in total Coding Swift Since December 20, 2015 - M
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://github.com/sunnydayw/CodePath-iOS-Portfolio/blob/master/Gif/Animation-Detail.gif'title='Animation-Detail' width='Animation-Detail' alt='Animation-Detail' />
-
-<img src='https://github.com/sunnydayw/CodePath-iOS-Portfolio/blob/master/Gif/Animation-Launch.gif' width='Animation-Launch' alt='Animation-Launch' />
-
-<img src='https://github.com/sunnydayw/CodePath-iOS-Portfolio/blob/master/Gif/Yelp-Map.gif' width='Yelp-Map' alt='Yelp-Map' />
-
-<img src='https://github.com/sunnydayw/CodePath-iOS-Portfolio/blob/master/Gif/Flick-TablevsCollection.gif
-' width='Tableview' alt='Tableview' />
-
-<img src='' width='' alt='' />
-
-<img src='https://github.com/sunnydayw/CodePath-iOS-Portfolio/blob/master/Gif/Moment-Style.gif' width='Moment-Style' alt='Moment-Style' />
-
-<img src='https://github.com/sunnydayw/CodePath-iOS-Portfolio/blob/master/Gif/Animation-Loading.gif' width='Loading' alt='Loading' />
-
-<img src='https://github.com/sunnydayw/CodePath-iOS-Portfolio/blob/master/Gif/Flick-SearchBar.gif' width='Search' alt='Search' />
-
-<img src='https://github.com/sunnydayw/CodePath-iOS-Portfolio/blob/master/Gif/Yelp-infscroll.gif' width='Scroll' alt='Scroll' />
-
-<img src='https://github.com/sunnydayw/CodePath-iOS-Portfolio/blob/master/Gif/Monment.gif' width='Moment' alt='Moment' />
-
-<img src='https://github.com/sunnydayw/CodePath-iOS-Portfolio/blob/master/Gif/Instagram-Demo-1.gif' width='Instagram' alt='Instagram' />
-
-<img src='https://github.com/sunnydayw/CodePath-iOS-Portfolio/blob/master/Gif/tipping.gif' width='tipping' alt='tipping' />
-
-<img src='https://github.com/sunnydayw/CodePath-iOS-Portfolio/blob/master/Gif/network-error.gif' width='network error' alt='network error' />
+<img src='https://github.com/sunnydayw/CodePath-iOS-Portfolio/blob/master/Gif/Animation-Detail.gif'title='Animation-Detail' width='Animation-Detail' alt='Animation-Detail' /><img src='https://github.com/sunnydayw/CodePath-iOS-Portfolio/blob/master/Gif/Animation-Launch.gif' width='Animation-Launch' alt='Animation-Launch' /><img src='https://github.com/sunnydayw/CodePath-iOS-Portfolio/blob/master/Gif/Yelp-Map.gif' width='Yelp-Map' alt='Yelp-Map' /><img src='https://github.com/sunnydayw/CodePath-iOS-Portfolio/blob/master/Gif/Flick-TablevsCollection.gif' width='Tableview' alt='Tableview' /><img src='https://github.com/sunnydayw/CodePath-iOS-Portfolio/blob/master/Gif/Moment-Style.gif' width='Moment-Style' alt='Moment-Style' /><img src='https://github.com/sunnydayw/CodePath-iOS-Portfolio/blob/master/Gif/Animation-Loading.gif' width='Loading' alt='Loading' /><img src='https://github.com/sunnydayw/CodePath-iOS-Portfolio/blob/master/Gif/Flick-SearchBar.gif' width='Search' alt='Search' /><img src='https://github.com/sunnydayw/CodePath-iOS-Portfolio/blob/master/Gif/Yelp-infscroll.gif' width='Scroll' alt='Scroll' /><img src='https://github.com/sunnydayw/CodePath-iOS-Portfolio/blob/master/Gif/Monment.gif' width='Moment' alt='Moment' /><img src='https://github.com/sunnydayw/CodePath-iOS-Portfolio/blob/master/Gif/Instagram-Demo-1.gif' width='Instagram' alt='Instagram' /><img src='https://github.com/sunnydayw/CodePath-iOS-Portfolio/blob/master/Gif/tipping.gif' width='tipping' alt='tipping' /><img src='https://github.com/sunnydayw/CodePath-iOS-Portfolio/blob/master/Gif/network-error.gif' width='network error' alt='network error' />
 
 ## Notes
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
