@@ -1,6 +1,6 @@
 # CodePath iOS Portfolio Video Demo
 
-Here is a Video Walkthrough, Due to large amount of gif loading, it will be very slow, If you want to see detail of each feature, Please click on individual gif link
+Here is a Video Walkthrough, Due to large amount of gif loading, it will be very slow, If you want to see detail of each feature, Please click on individual gif
 
 ## Launch Screen Animation
 <img src='https://github.com/sunnydayw/CodePath-iOS-Portfolio/blob/master/Video%20Demo%20Profile/Animation-Launch-Screen.gif' title='Launch Screen Animation' width='' alt='Launch Screen Animation' />
