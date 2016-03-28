@@ -3,7 +3,8 @@ Time spent: **60** hours spent in total Coding Swift Since December 20, 2015 - M
 For Video Demo, Please Check Video Demo Profile
 
 ## Implemented Features
-##### UI Elements:
+##### UI Elements
+
     - [x] TableView & Collection View
     - [x] Scroll View
     - [x] SearchBar
@@ -13,24 +14,28 @@ For Video Demo, Please Check Video Demo Profile
     - [x] Tab Controller 
     - [x] Navigation Controller
 
-##### User Ineraction:
+##### User Ineraction
+
     - [x] Pull and Refresh
     - [x] Infinite Scroll
     - [x] Gestures
     - [x] Pulling down the profile page should blur and resize the header image
 
-##### Animation:
+##### Animation
+
     - [x] Animating multiple View properties - frame,alpha etc
     - [x] animating view transform - rotation,scale etc
     - [x] Spring Animations
     - [x] Combining Animation
 
-##### Backend:
+##### Backend
+
     - [x] Parse server - user login/logout
     - [x] user profiles
     - [x] Tweeter/Instagram like post 
 
-##### Other:
+##### Other
+
     - [x] OAuth
     - [x] CocoaPod
     - [x] Data Model
