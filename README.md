@@ -5,43 +5,43 @@ For Video Demo, Please Check Video Demo Profile
 ## Implemented Features
 ##### UI Elements
 
-    - [x] TableView & Collection View
-    - [x] Scroll View
-    - [x] SearchBar
-    - [x] Camera
-    - [x] Map View
-    - [x] AutoLayout
-    - [x] Tab Controller 
-    - [x] Navigation Controller
+    1.TableView & Collection View
+    2.Scroll View
+    3.SearchBar
+    4.Camera
+    5.Map View
+    6.AutoLayout
+    7.Tab Controller 
+    8.Navigation Controller
 
 ##### User Ineraction
 
-    - [x] Pull and Refresh
-    - [x] Infinite Scroll
-    - [x] Gestures
-    - [x] Pulling down the profile page should blur and resize the header image
+    1.Pull and Refresh
+    2.Infinite Scroll
+    3.Gestures
+    4.Pulling down the profile page should blur and resize the header image
 
 ##### Animation
 
-    - [x] Animating multiple View properties - frame,alpha etc
-    - [x] animating view transform - rotation,scale etc
-    - [x] Spring Animations
-    - [x] Combining Animation
+    1.Animating multiple View properties - frame,alpha etc
+    2.Animating view transform - rotation,scale etc
+    3.Spring Animations
+    4.Combining Animation
 
 ##### Backend
 
-    - [x] Parse server - user login/logout
-    - [x] user profiles
-    - [x] Tweeter/Instagram like post 
+    1.Parse server - user login/logout
+    2.user profiles
+    3.Tweeter/Instagram like post 
 
 ##### Other
 
-    - [x] OAuth
-    - [x] CocoaPod
-    - [x] Data Model
-    - [x] View Model
-    - [X] API Client
-    - [x] NSNotificationCenter
+    1.OAuth
+    2.CocoaPod
+    3.Data Model
+    4.View Model
+    5.API Client
+    6.NSNotificationCenter
 
 ## Code Sample
 
